@@ -1,0 +1,41 @@
+body{
+    text-align:center;
+    background-color: Blue;
+    
+}
+h1{
+    color:gold;
+    font-family: 'Pacifico', cursive;
+}
+h2{
+    color:gold;
+    font-family: 'Lobster', cursive;
+     font-size: 30px;
+
+}
+h3{
+    color:gold;
+    font-family: 'Indie Flower', cursive;
+     font-size: 30px;
+}
+h4{
+    color:gold;
+    font-family: 'Charmonman', cursive;
+     font-size: 30px;
+}
+h5{
+    Color:gold;
+    font-family: 'Notable', sans-serif;
+     font-size: 30px;
+}
+h6{
+    color:gold;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 30px;
+}
+.game{
+    text-decoration:underline;
+}
+.food{
+    text-decoration:line-through;
+}
